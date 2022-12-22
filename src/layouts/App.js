@@ -10,7 +10,7 @@ const App = () => {
         <p>
           Edit <code>src/layouts/App.js</code> and save to reload.
         </p>
-        <p>CICD</p>
+        <p>CICD 12/2022</p>
       </header>
     </div>
   )
